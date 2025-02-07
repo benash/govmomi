@@ -57,6 +57,7 @@ import (
 	_ "github.com/vmware/govmomi/cli/extension"
 	_ "github.com/vmware/govmomi/cli/fields"
 	_ "github.com/vmware/govmomi/cli/folder"
+	_ "github.com/vmware/govmomi/cli/gpu"
 	_ "github.com/vmware/govmomi/cli/host"
 	_ "github.com/vmware/govmomi/cli/host/account"
 	_ "github.com/vmware/govmomi/cli/host/autostart"
